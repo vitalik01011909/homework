@@ -1,0 +1,6 @@
+.container{background:yellow; padding: 1px; margin: 0 auto; width: 1000px; border: solid black 1px;}
+header, footer, menu {margin: 20px; padding: 10px;}
+.content{padding: 20px; border: solid black 1px;}
+.header{background:#BCBE97; height:50px; border: solid black 1px;}
+.body{background: url('me.jpg') no-repeat 100px 100px;}
+.footer{background:blue 10px 10px;}
