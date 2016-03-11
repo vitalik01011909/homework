@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c069e2f-bcf7-4f5a-adf5-9a5a75e06fe1" name="hard" url="http://localhost">
+        <fileTransfer mountedRoot="Z:\home\testPHPacademy\parametrsfornewserver" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
